@@ -2,7 +2,7 @@
 
 ... but *somehow* it doesn't. I guess I will add something later.
 
-**Will I?**
+**Will I?** :laugh:
 
 <!--
 **sch-mar/sch-mar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
